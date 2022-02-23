@@ -1,0 +1,11 @@
+{
+  "name": "arweave-uploader-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sarah Strange <strange1120@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@bundlr-network/client": "^0.5.15",
+    "fs-extra": "^10.0.0"
+  }
+}
